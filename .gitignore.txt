@@ -1,0 +1,10 @@
+# Go build artifacts
+*.exe
+*.out
+*.o
+*.a
+
+# Go cache
+/bin/
+/pkg/
+/vendor/
